@@ -7,7 +7,9 @@ Este es el readme de la branch
 
 
 ## 1- Lo primero es crear nuestro repositorio en Github, para eso debemos ir a nuestro perfil de Github y hacer click en la opción "your repositories".
-<br>
+  ![new]( https://github.com/hectorherediavidal/hello-world-examen/blob/main/img/11.png "")
+  <br>
+  <br>
 
 ## 2- Una vez entremos en esta opción, debemos darle a "new" y asi podremos crear nuestro repositorio.
   ![crear](https://github.com/hectorherediavidal/hello-world-examen/blob/main/img/0.png "")
